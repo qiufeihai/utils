@@ -1,0 +1,22 @@
+{
+  "name": "@qiufeihai/utils",
+  "version": "1.0.0",
+  "description": "personal utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "feihai",
+    "util"
+  ],
+  "author": "qiufeihai",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^0.22.0"
+  },
+  "dependencies": {
+    "is-type-of": "^1.2.0",
+    "ramda": "^0.24.1"
+  }
+}
